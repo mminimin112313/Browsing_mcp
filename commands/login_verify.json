@@ -1,0 +1,18 @@
+[
+    [
+        "open",
+        "https://nid.naver.com/nidlogin.login"
+    ],
+    [
+        "getText",
+        "#id"
+    ],
+    [
+        "getText",
+        "#pw"
+    ],
+    [
+        "getText",
+        ".btn_login"
+    ]
+]

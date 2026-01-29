@@ -1,0 +1,24 @@
+[
+    [
+        "open",
+        "https://nid.naver.com/nidlogin.login"
+    ],
+    [
+        "type",
+        "#id",
+        "kmg9463"
+    ],
+    [
+        "type",
+        "#pw",
+        "wjddhr628584*"
+    ],
+    [
+        "click",
+        ".btn_login"
+    ],
+    [
+        "screenshot",
+        "C:\\Users\\mskim\\projects\\naverblog\\naver_blog\\login_result.png"
+    ]
+]

@@ -1,0 +1,14 @@
+[
+    [
+        "open",
+        "https://www.google.com"
+    ],
+    [
+        "type",
+        "textarea[name='q']",
+        "Naver Blog Automation\n"
+    ],
+    [
+        "snapshot"
+    ]
+]

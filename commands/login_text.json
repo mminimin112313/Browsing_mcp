@@ -1,0 +1,10 @@
+[
+    [
+        "open",
+        "https://nid.naver.com/nidlogin.login"
+    ],
+    [
+        "getText",
+        "form"
+    ]
+]
