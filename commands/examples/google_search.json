@@ -1,0 +1,31 @@
+[
+    [
+        "comment",
+        "A generic example of searching on Google."
+    ],
+    [
+        "open",
+        "https://www.google.com"
+    ],
+    [
+        "wait",
+        "2000"
+    ],
+    [
+        "type",
+        "textarea[name='q']",
+        "Agentic AI"
+    ],
+    [
+        "press",
+        "Enter"
+    ],
+    [
+        "wait",
+        "2000"
+    ],
+    [
+        "screenshot",
+        "c:/Users/mskim/projects/naverblog/browser_workspace/google_search_example.png"
+    ]
+]

@@ -1,0 +1,4 @@
+{
+  "ok": true,
+  "content": "[{\"ok\":true,\"url\":\"https://nid.naver.com/nidlogin.login\",\"title\":\"네이버 : 로그인\"},{\"ok\":true,\"url\":\"https://nid.naver.com/nidlogin.login\"},{\"ok\":true,\"url\":\"https://nid.naver.com/nidlogin.login\",\"screenshot\":\"C:\\\\Users\\\\mskim\\\\projects\\\\naverblog\\\\naver_blog\\\\manual_login_result.png\"},{\"ok\":true,\"url\":\"https://nid.naver.com/nidlogin.login?mode=form&url=https%3A%2F%2Fblog.naver.com%2Fkmg9463%3FRedirect=%26categoryNo=\",\"title\":\"네이버 : 로그인\"},{\"ok\":true,\"url\":\"https://nid.naver.com/nidlogin.login?mode=form&url=https%3A%2F%2Fblog.naver.com%2Fkmg9463%3FRedirect=%26categoryNo=\"},{\"ok\":true,\"url\":\"https://nid.naver.com/nidlogin.login?mode=form&url=https%3A%2F%2Fblog.naver.com%2Fkmg9463%3FRedirect=%26categoryNo=\",\"screenshot\":\"C:\\\\Users\\\\mskim\\\\projects\\\\naverblog\\\\naver_blog\\\\editor_entry_after_login.png\"}]"
+}
